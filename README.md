@@ -4,7 +4,7 @@
 
 ## About Me
 
-I usually do things that do not exist or are not public.
+I usually do things that do not exist or are not public. ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdecentholograms&countColor=%23263759)
 
 ## 💻 Tech Stack
 
