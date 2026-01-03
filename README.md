@@ -14,10 +14,11 @@ I usually do things that do not exist or are not public.
 
 - **C**
 - **C++**
-- **Java**
-- **JavaScript**
-- **HTML**
 - **CSS**
+- **Java**
+- **HTML**
+- **Python**
+- **JavaScript**
 
 ---
 
