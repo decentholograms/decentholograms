@@ -1,4 +1,4 @@
-### ! FrannnDev
+# ! FrannnDev
 
 ---
 
@@ -12,26 +12,21 @@ I usually do things that do not exist or are not public.
 
 ### Programming Languages
 
-* **C**
-  
-* **C++**
-  
-* **Java**
-  
-* **JavaScript**
-  
-* **HTML**
-  
-* **CSS**
+- **C**
+- **C++**
+- **Java**
+- **JavaScript**
+- **HTML**
+- **CSS**
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=decentholograms\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
+![](https://github-trophies.vercel.app/?username=decentholograms&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
