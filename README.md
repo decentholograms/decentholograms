@@ -25,3 +25,6 @@ I usually do things that do not exist or are not public.
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img width="854" height="120" alt="image" src="https://github.com/user-attachments/assets/dcccc7f1-bf27-4720-9867-f6ccc184b276" />
+
