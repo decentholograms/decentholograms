@@ -19,6 +19,8 @@ I usually do things that do not exist or are not public.
 - **Python**
 - **JavaScript**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DecentHolograms&theme=dark)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=decentholograms&theme=radical&no-frame=true&no-bg=true&margin-w=4)
