@@ -13,8 +13,8 @@ I usually do things that do not exist or are not public.
 ### Programming Languages
 
 - **C**
-- **C++**
 - **CSS**
+- **C++**
 - **Java**
 - **HTML**
 - **Python**
