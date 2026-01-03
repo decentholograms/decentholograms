@@ -11,6 +11,7 @@ I usually do things that do not exist or are not public.
 ### Programming Languages
 
 - **C**
+- **Lua**
 - **CSS**
 - **C++**
 - **Java**
