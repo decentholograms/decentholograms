@@ -21,7 +21,7 @@ I usually do things that do not exist or are not public.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=mhsjlw&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=fastdexcorp&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
 
