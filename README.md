@@ -15,7 +15,6 @@ I usually do things that do not exist or are not public.
 - **CSS**
 - **C++**
 - **Java**
-- **React**
 - **HTML** 
 - **Python**
 - **JavaScript**
