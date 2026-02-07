@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/About_Me-ff4444?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+### <img src="https://img.shields.io/badge/About_Me-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 
 ```yaml
 name: Franco
@@ -28,7 +28,7 @@ open_to: Collaborations & Projects
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Quick_Facts-ff4444?style=for-the-badge&logo=readme&logoColor=white" />
+### <img src="https://img.shields.io/badge/Quick_Facts-0D1117?style=for-the-badge&logo=readme&logoColor=white" />
 
 Currently building personal projects
 
@@ -46,7 +46,7 @@ Open to collaborating on anything cool
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/Tech_Stack-ff4444?style=for-the-badge&logo=stackblitz&logoColor=white" />
+### <img src="https://img.shields.io/badge/Tech_Stack-0D1117?style=for-the-badge&logo=stackblitz&logoColor=white" />
 
 <br>
 
@@ -58,7 +58,7 @@ Open to collaborating on anything cool
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/Stats-ff4444?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
+### <img src="https://img.shields.io/badge/Stats-0D1117?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
 
 <br>
 
@@ -80,7 +80,7 @@ Open to collaborating on anything cool
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/Contribution_Snake-ff4444?style=for-the-badge&logo=python&logoColor=white" />
+### <img src="https://img.shields.io/badge/Contribution_Snake-0D1117?style=for-the-badge&logo=python&logoColor=white" />
 
 <br>
 
