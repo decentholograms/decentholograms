@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=250&section=header&text=FrannnDev&fontSize=90&fontColor=c9d1d9&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Argentina%20%F0%9F%87%A6%F0%9F%87%B7&descSize=20&descColor=58a6ff&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0000,60:4a0000,100:ff4444&height=250&section=header&text=FrannnDev&fontSize=90&fontColor=c9d1d9&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Argentina%20%F0%9F%87%A6%F0%9F%87%B7&descSize=20&descColor=ff6b6b&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/FrannnnDev">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=800&height=70&lines=%24+whoami+%E2%86%92+FrannnDev;%24+cat+skills.txt+%E2%86%92+Full+Stack+Developer;%24+uptime+%E2%86%92+Always+online%2C+always+coding;%24+git+push+%E2%86%92+Deploying+dreams+to+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&repeat=true&random=false&width=800&height=70&lines=%24+whoami+%E2%86%92+FrannnDev;%24+cat+skills.txt+%E2%86%92+Full+Stack+Developer;%24+uptime+%E2%86%92+Always+online%2C+always+coding;%24+git+push+%E2%86%92+Deploying+dreams+to+production" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58a6ff?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Lives-Argentina-58a6ff?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-58a6ff?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff4444?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Lives-Argentina-ff4444?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-ff4444?style=for-the-badge&logoColor=white" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -40,7 +40,7 @@ open_to: Collabs & Epic Projects
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=58A6FF&vCenter=true&repeat=true&random=true&width=380&height=250&lines=%F0%9F%94%AD+Working+on+epic+projects;%F0%9F%8C%B1+Learning+something+new+daily;%E2%9A%A1+Fast+learner+%26+problem+solver;%F0%9F%8E%AF+Focused+on+clean+architecture;%F0%9F%9A%80+Shipping+code+at+light+speed;%F0%9F%92%A1+Turning+ideas+into+reality;%F0%9F%94%A5+Passionate+about+open+source;%F0%9F%8E%AE+Gaming+when+not+coding;%F0%9F%A7%A0+Always+curious%2C+always+building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=FF4444&vCenter=true&repeat=true&random=true&width=380&height=250&lines=%F0%9F%94%AD+Working+on+epic+projects;%F0%9F%8C%B1+Learning+something+new+daily;%E2%9A%A1+Fast+learner+%26+problem+solver;%F0%9F%8E%AF+Focused+on+clean+architecture;%F0%9F%9A%80+Shipping+code+at+light+speed;%F0%9F%92%A1+Turning+ideas+into+reality;%F0%9F%94%A5+Passionate+about+open+source;%F0%9F%8E%AE+Gaming+when+not+coding;%F0%9F%A7%A0+Always+curious%2C+always+building" />
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ open_to: Collabs & Epic Projects
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -82,7 +82,7 @@ open_to: Collabs & Epic Projects
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -91,21 +91,21 @@ open_to: Collabs & Epic Projects
 <br>
 
 <a href="https://github.com/FrannnnDev">
-<img height="180em" src="https://github-readme-stats-z9sb.vercel.app/api?username=FrannnnDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats-z9sb.vercel.app/api/top-langs/?username=FrannnnDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-z9sb.vercel.app/api?username=FrannnnDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=8b949e&ring_color=ff4444&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-z9sb.vercel.app/api/top-langs/?username=FrannnnDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=8b949e&langs_count=8" />
 </a>
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=FrannnnDev&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="700"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=FrannnnDev&hide_border=true&background=0d1117&stroke=21262d&ring=ff4444&fire=ff4444&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="700"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrannnnDev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrannnnDev&bg_color=0d1117&color=ff4444&line=ff4444&point=c9d1d9&area=true&area_color=1a0000&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -113,23 +113,11 @@ open_to: Collabs & Epic Projects
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FrannnnDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=FrannnnDev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## 📦 3D Contribution Graph
-
-<br>
-
-<img src="https://raw.githubusercontent.com/FrannnnDev/FrannnnDev/3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -145,7 +133,7 @@ open_to: Collabs & Epic Projects
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -153,11 +141,11 @@ open_to: Collabs & Epic Projects
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="70%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
@@ -165,15 +153,15 @@ open_to: Collabs & Epic Projects
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FrannnnDev-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/FrannnnDev)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FrannnnDev-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117)](https://github.com/FrannnnDev)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ff4444&labelColor=0d1117)](https://discord.com)
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=FrannnnDev&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=FrannnnDev&style=for-the-badge&color=ff4444&labelColor=0d1117&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0000,60:4a0000,100:ff4444&height=120&section=footer" width="100%"/>
