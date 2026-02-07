@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 About Me
+### <img src="https://img.shields.io/badge/About_Me-ff4444?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 
 ```yaml
 name: Franco
@@ -28,7 +28,7 @@ open_to: Collaborations & Projects
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Quick Facts
+### <img src="https://img.shields.io/badge/Quick_Facts-ff4444?style=for-the-badge&logo=readme&logoColor=white" />
 
 Currently building personal projects
 
@@ -46,11 +46,11 @@ Open to collaborating on anything cool
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### <img src="https://img.shields.io/badge/Tech_Stack-ff4444?style=for-the-badge&logo=stackblitz&logoColor=white" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,html,css,react,nextjs,nodejs,tailwind,docker,linux,git,vscode&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,html,css,react,nextjs,nodejs,tailwind,docker,linux,git,lua,bash,vscode&perline=8&theme=dark" />
 
 </div>
 
@@ -58,13 +58,12 @@ Open to collaborating on anything cool
 
 <div align="center">
 
-### 📊 Stats
+### <img src="https://img.shields.io/badge/Stats-ff4444?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
 
 <br>
 
 <a href="https://github.com/FrannnnDev">
 <img height="160em" src="https://github-readme-stats-z9sb.vercel.app/api?username=FrannnnDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=8b949e&ring_color=ff4444&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats-z9sb.vercel.app/api/top-langs/?username=FrannnnDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=8b949e&langs_count=6" />
 </a>
 
 <br><br>
@@ -81,7 +80,7 @@ Open to collaborating on anything cool
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### <img src="https://img.shields.io/badge/Contribution_Snake-ff4444?style=for-the-badge&logo=python&logoColor=white" />
 
 <br>
 
