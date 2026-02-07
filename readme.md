@@ -96,8 +96,9 @@ Open to collaborating on anything cool
 
 <div align="center">
 
+### <img src="https://img.shields.io/badge/Nothing_to_see_here-0D1117?style=for-the-badge&logo=ghost&logoColor=white" />
+
 [![GitHub](https://img.shields.io/badge/GitHub-FrannnnDev-0d1117?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/FrannnnDev)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=ff4444)](https://discord.com)
 
 <br>
 
