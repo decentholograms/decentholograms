@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=FrannnDev&fontSize=80&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=16&descColor=ff4444&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=FrannnDev&fontSize=80&fontColor=c9d1d9&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://github.com/FrannnnDev">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Full+Stack+Developer;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&repeat=true&random=false&width=600&height=45&lines=%24+whoami+%E2%86%92+FrannnDev;%24+cat+skills.txt+%E2%86%92+Full+Stack+Developer;%24+uptime+%E2%86%92+Always+online%2C+always+coding;%24+git+push+%E2%86%92+Deploying+dreams+to+production" alt="Typing SVG" />
 </a>
 
 </div>
