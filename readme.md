@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/About_Me-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+### <img src="https://img.shields.io/badge/About_Me-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 ```yaml
 name: Franco
